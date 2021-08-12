@@ -3,7 +3,7 @@
 
 * Welcome to my portfolio! 
 
-I live in Brazil, and I am an Information of Tecnology student. I am also an Eletronics and Informatics Technician and I love to learn new things daily.
+I live in Brazil, and I am an Information of Technology student. I am also an Electronics and Informatics Technician and I love to learn new things daily.
 
 💻 Systems Developer
 👨🏽‍💻 Software Developer Student
